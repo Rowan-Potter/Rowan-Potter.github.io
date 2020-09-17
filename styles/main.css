@@ -12,7 +12,8 @@ font-size: 30px}
 .black-background {
 background-color:rgb(000, 000, 00);}
 .red-background {
-background-color:rgb(234, 11, 11);}}
+background-color:rgb(234, 11, 11);}
+
 #secondPage {
     background-color:RGB(93, 109, 126);}
     h3 {
@@ -26,8 +27,9 @@ background-color:rgb(234, 11, 11);}}
         text-align: center;
         font-size: 30px}
         .black-background {
-          background-color:rgb(000, 000, 00);}}
-#thirdPage
+          background-color:rgb(000, 000, 00);}
+
+#thirdPage {
  p { font-size: 25px}
 body {
   background-color:RGB(93, 109, 126);}
@@ -37,16 +39,18 @@ body {
             font-size: 30px}
             .black-background {
               background-color:rgb(000, 000, 00);}
-#header { font-size: 25px}}
-#forthPage {
+#header { font-size: 25px}
+
+#forthPage { 
   background-color:RGB(93, 109, 126);}
   .white-text {color: white}
             div {
             text-align: center;
             font-size: 30px}
             .black-background {
-              background-color:rgb(000, 000, 00);}}
-#firthPage { {
+              background-color:rgb(000, 000, 00);}
+
+#firthPage {
   background-color:RGB(93, 109, 126);}
 h1{ text-align: center; }
 .white-text {color: white}
@@ -57,4 +61,4 @@ h1{ text-align: center; }
         background-color:rgb(000, 000, 00);}
         p{
           text-align:center;
-          font-size: 25px;}}
+          font-size: 25px;}
