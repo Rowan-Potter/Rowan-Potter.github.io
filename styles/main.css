@@ -1,0 +1,48 @@
+
+#firstPage {
+background-image: url("/a4.JPG");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;}
+.white-text {color: white}
+div {
+text-align: center;
+font-size: 30px}
+.black-text {color: black}
+.black-background {
+background-color:rgb(000, 000, 00);}
+.red-background {
+background-color:rgb(234, 11, 11);}}
+#secondPage {
+    background-color:RGB(93, 109, 126);}
+    h3 {
+      text-align: center;
+      font-size: 40px; }
+      p {
+        text-align: center;
+        font-size: 25px; }
+  .white-text {color: white}
+        div {
+        text-align: center;
+        font-size: 30px}
+        .black-background {
+          background-color:rgb(000, 000, 00);}}
+#thirdPage
+ p { font-size: 25px}
+body {
+  background-color:RGB(93, 109, 126);}
+  .white-text {color: white}
+            div {
+            text-align: center;
+            font-size: 30px}
+            .black-background {
+              background-color:rgb(000, 000, 00);}
+#header { font-size: 25px}}
+#forthPage {
+  background-color:RGB(93, 109, 126);}
+  .white-text {color: white}
+            div {
+            text-align: center;
+            font-size: 30px}
+            .black-background {
+              background-color:rgb(000, 000, 00);}}
