@@ -16,7 +16,7 @@ background-color:rgb(234, 11, 11);}
 }
 
 #secondPage {
-background-color:RGB(93, 109, 126) !important;
+background-color:RGB(93, 109, 126);
 h3 {
       text-align: center;
       font-size: 40px; }
