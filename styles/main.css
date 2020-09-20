@@ -80,3 +80,17 @@ h1{ text-align: center; }
           text-align:center;
           font-size: 25px;}
 }
+
+#seventhPage {
+  background-color:RGB(93, 109, 126);
+  h1{ text-align: center; }
+  .white-text {color: white}
+        div {
+        text-align: center;
+        font-size: 30px}
+        .black-background {
+          background-color:rgb(000, 000, 00);}
+          p{
+            text-align:center;
+            font-size: 25px;}
+}
