@@ -5,17 +5,21 @@
       background-attachment: fixed;
       background-size: cover;}
       .white-text {color: white}
-div {
-      text-align: center;
-       font-size: 30px}
-
-.black-text {color: black}
+}
 
 .black-background {
        background-color:rgb(000, 000, 00);}
 .red-background {
      background-color:rgb(234, 11, 11);}
 background-color:RGB(93, 109, 126);
+
+div {
+      text-align: center;
+       font-size: 30px}
+
+.black-text {color: black}
+
+
 h3 {
       text-align: center;
       font-size: 40px;
