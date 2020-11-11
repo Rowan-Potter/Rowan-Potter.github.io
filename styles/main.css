@@ -5,7 +5,7 @@
           }
           
           
-          @media all and (max-width: 320px) and (min-width: 767px) {
+          @media (min-width: 767px) {
             body {
               background-color: lightgreen;
             }
@@ -18,7 +18,7 @@
           }
  
 
-@media all and (max-width: 1199px) and (min-width: 768px) {
+/* @media all and (max-width: 1199px) and (min-width: 768px) {
       body {
         background-color: lightblue;
       }
@@ -35,7 +35,7 @@
       body {
         background-color:burlywood;
       }
-    }
+    } */
 
 
 div {
